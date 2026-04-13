@@ -15,6 +15,10 @@ credentials/
 *.key
 *.pem
 
+# Participant data (GDPR)
+data/*
+!data/.gitkeep
+
 # Temp
 *.tmp
 *.bak
