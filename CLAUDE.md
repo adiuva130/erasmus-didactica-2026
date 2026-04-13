@@ -36,3 +36,4 @@ MAI: segreteria amministrativa, uffici tecnici.
 
 ## Priorità Paesi
 DE → FR → PL → ES. Italia formatori in parallelo.
+14. GERARCHIA RUOLI — Coordinatore Erasmus → Dirigente → Referente formazione → Referente internazionalizzazione → Email generica. MAI: segreteria, uffici tecnici.
