@@ -1,13 +1,20 @@
-ID,Nome,Specializzazione,Citta,Land,Email,LinkedIn_URL,EPALE_URL,Disponibilita,Fonte_URL,Note
-DE-T001,ZORYA Limited,Lehrerfortbildung / digitale Didaktik,,DE,,,,KA1 Kursanbieter,https://www.erasmus-fortbildung.com,OID: E10369220. 850+ partecipanti. Rating 4.9/5. Registrato ORS EU.
-DE-T002,IIK Düsseldorf / Rüdiger Riechert,DaF Lehrerfortbildung / Erasmus+,Düsseldorf,DE,,,,,https://www.erasmus-plus-eu.de,Copyright holder: Rüdiger Riechert. Focus: German as foreign language teacher training.
-DE-T003,Erasmus Learning Academy (ELA),Classroom Management / ICT / Inclusion / Innovation,Bologna + Berlin,IT/DE,info@erasmuslearningacademy.eu,,,,https://erasmustrainingcourses.com,Corsi anche a Berlino. 10000+ docenti formati. ISO 9001. Erasmus+ accreditato.
-DE-T004,Europass Teacher Academy,400+ corsi KA1 / Tutte le materie,30+ sedi EU,EU,,,,,https://www.teacheracademy.eu,Più grande provider Erasmus+ KA1. Sede anche in DE.
-DE-T005,Educat Academy,STEM / Digitale / Inclusione,Cipro + Grecia + Lituania,EU,,,,,https://educat.academy,OID: E10339100. Docenti da DE/PL/FR/ES/IT.
-DE-T006,Pädagogisches Institut München (PI),Internationale Bildungskooperationen / Erasmus+,München,DE,,,,,https://www.pi-muenchen.de,Supporto Erasmus+ per scuole Monaco. Contatti specifici sul sito.
-DE-T007,iTEACH ITL-INSTITUTE,KA1 Kurse / Methodik,EU,,,,,,https://www.itl-institute.com,~100 corsi erogati.
-DE-T008,ARAXÁ Edu,Teacher development / Training delivery,EU,,,,,,https://araxaedu.com,Corsi registrati su ESEP.
-DE-T009,Ana Mladina Puljak,Erasmus Courses Platform21,,HR/EU,,https://www.linkedin.com/in/anamladina/,,,LinkedIn,Profilo LinkedIn: Erasmus course platform.
-DE-T010,Oana Rizescu,Freelance Educational Trainer / Erasmus+,,RO/EU,,https://www.linkedin.com/in/oana-rizescu-06erasmus/,,,LinkedIn,Freelance trainer specializzata Erasmus+.
-DE-T011,Carly Wood,English Trainer & Pedagogical Advisor,,DE,,https://www.linkedin.com/in/carly-wood-2b78bb54/,,,LinkedIn,10 anni esperienza coaching linguistico + e-learning + pedagogia.
-DE-T012,Kerstin Forster,Lernen durch Kreativität,,DE,,https://www.linkedin.com/in/kerstin-forster-1688a2160/,,,LinkedIn,Apprendimento creativo.
+ID,Nome,Organizzazione,Tipo,Specializzazione,Area,Citta,Email,Sito_Web,LinkedIn_URL,Fonte_URL,Note
+DE-T001,,ZORYA Limited,Provider KA1,Stress management / Zeitmanagement / Gesundheit / Digitale Lösungen,EU,Cipro (sede legale),contact@erasmus-fortbildung.com,https://www.erasmus-fortbildung.com,,Web,OID: E10369220. 850+ partecipanti. Rating 4.9/5. Tel: +357 97949119. Registrato ORS EU.
+DE-T002,Rüdiger Riechert,IIK Düsseldorf,Istituzione,DaF Lehrerfortbildung / E-Learning / Bildungsmanagement,DE,Düsseldorf,riechert@iik-duesseldorf.de,https://www.ruediger-riechert.de,,Web+LinkedIn,Freelance dal 2021. Ex-direttore formazione IIK. Sito personale attivo. Esperto DaF/DaZ.
+DE-T003,Eva-Lisa Finzi,IIK Düsseldorf,Istituzione,DaF Lehrerfortbildung / Erasmus+,DE,Düsseldorf,,https://www.iik-duesseldorf.de,,Web,Attuale responsabile dipartimento formazione IIK. Successore di Riechert.
+DE-T004,,Erasmus Learning Academy (ELA),Provider KA1,Classroom Management / ICT-AI / Inclusion / Innovation / Well-being,EU,Bologna + Palermo + Berlin,info@erasmuslearningacademy.eu,https://erasmustrainingcourses.com,,Web,OID: E10221762 (IT) + E10303586 (ES). 10000+ docenti. ISO 9001. Tel Bologna: +39 380 8698725.
+DE-T005,,EBB Europass Berlin Beratungsbüro GmbH,Provider KA1,STEAM / PBL / 21st century skills / Classroom management / Bullying prevention,DE,Berlin,,https://www.teacheracademy.eu/courses-location/berlin/,,Web,OID: E10233216. Teacher Academy Berlin. Corsi 1-2 settimane. Topics: innovazione didattica.
+DE-T006,,Europass Teacher Academy (Network),Provider KA1,400+ corsi KA1 tutte le materie,EU,Firenze + 30 sedi,,https://www.teacheracademy.eu,,Web,Più grande provider Erasmus+ KA1 Europa. Sedi in 30+ città.
+DE-T007,Petra Küntzler,TANDEM Hamburg e.V.,Istituzione,Methodik/Didaktik DaF / Theaterpädagogik,DE,Hamburg,info@tandem-hamburg.de,https://www.tandem-hamburg.de,,Web,Formatrice dal 2011. Corsi per docenti EU. Costo: 350 EUR. Tel: +49 40 381959.
+DE-T008,Sigrid Kolster,TANDEM Hamburg e.V.,Istituzione,Sprechtraining / Theaterpädagogik,DE,Hamburg,info@tandem-hamburg.de,https://www.tandem-hamburg.de,,Web,Esperienza in formazione teatrale per attori. Ora formatrice docenti.
+DE-T009,,Akademie für Lehrerfortbildung (ALP),Istituzione pubblica,Fortbildung Lehrkräfte aller Schularten und Fächer,DE,Dillingen,,https://alp.dillingen.de,,Web,Istituzione centrale Bayern per formazione docenti. Portale FIBS.
+DE-T010,,Institut für Lehrerfortbildung (ILF),Istituzione,Religionspädagogik / cattolica,DE,Gars am Inn,,https://www.gars-ilf.de,,Web,Formazione insegnanti religione cattolica Bayern.
+DE-T011,,Pädagogisches Institut München (PI),Istituzione pubblica,Internationale Bildungskooperationen / Erasmus+,DE,München,,https://www.pi-muenchen.de,,Web,Supporto Erasmus+ per scuole Monaco. Fachbereich IBK.
+DE-T012,,Educat Academy,Provider KA1,STEM / Digitale / Inclusione,EU,Cipro + Grecia + Lituania,,https://educat.academy,,Web,OID: E10339100. Docenti da DE/PL/FR/ES/IT.
+DE-T013,,iTEACH ITL-INSTITUTE,Provider KA1,KA1 Kurse / Methodik,EU,,,https://www.itl-institute.com,,Web,~100 corsi erogati.
+DE-T014,,ARAXÁ Edu,Provider KA1,Teacher development / Training delivery,EU,,,https://araxaedu.com,,Web,Corsi registrati su ESEP.
+DE-T015,Andrea Munding,Akademie Freiburg,Istituzione,Inklusion / Pädagogik,DE,Freiburg,andrea.munding@akademie-freiburg.de,https://akademie-freiburg.de,,Web,Fachkraft Inklusion Kindergarten/Schule.
+DE-T016,,Bildung-International Hamburg,Istituzione pubblica,Erasmus+ Fortbildung Lehrkräfte Ausland,DE,Hamburg,,https://bildung-international.hamburg.de,,Web,Behörde für Schule und Berufsbildung. Supporto Erasmus+ per scuole Hamburg.
+DE-T017,,Erasmus@ISB Bayern,Istituzione pubblica,Erasmus+ Schulbildung Bayern,DE,München,,https://www.erasmusplus.bayern.de,,Web,ISB = Staatsinstitut für Schulqualität. Koordina Erasmus+ per Bayern.
+DE-T018,Oana Rizescu,Freelance,Freelance,Educational Training / Erasmus+,EU,,,https://www.linkedin.com/in/oana-rizescu-06erasmus/,LinkedIn,Freelance trainer specializzata progetti Erasmus+.
+DE-T019,Carly Wood,Freelance,Freelance,English Training / Pedagogical Advisory / E-learning,DE,,,https://www.linkedin.com/in/carly-wood-2b78bb54/,LinkedIn,10 anni esperienza. Coaching + e-learning + pedagogia. Basata in DE.
