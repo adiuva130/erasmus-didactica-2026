@@ -15,9 +15,18 @@ credentials/
 *.key
 *.pem
 
-# Participant data (GDPR)
-data/*
-!data/.gitkeep
+# Participant data (GDPR) — personal info stays gitignored
+data/participants/
+data/surveys/
+data/*.personal.*
+
+# Allow school/trainer/contact databases (no personal data)
+!data/schools/
+!data/contacts/
+!data/trainers/
+!data/trainers_it/
+!data/agent_log.jsonl
+!data/qa_report.md
 
 # Temp
 *.tmp
