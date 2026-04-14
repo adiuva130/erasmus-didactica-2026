@@ -37,3 +37,19 @@ MAI: segreteria amministrativa, uffici tecnici.
 ## Priorità Paesi
 DE → FR → PL → ES. Italia formatori in parallelo.
 14. GERARCHIA RUOLI — Coordinatore Erasmus → Dirigente → Referente formazione → Referente internazionalizzazione → Email generica. MAI: segreteria, uffici tecnici.
+
+## STRUTTURA DB FORMATORI — REGOLA ASSOLUTA
+Il file ErasmusDidactica_FORMATORI.xlsx deve avere SEMPRE 3 sheet separati:
+
+**Sheet 1 — FORMATORI_FREELANCE**
+Formatori individuali freelance o dipendenti di istituzioni pubbliche disponibili a collaborare con Unicollege come partner locali per erogare corsi KA1.
+
+**Sheet 2 — ISTITUZIONI_PUBBLICHE**
+Landesinstitute, PI, ALP, ILF, centri formazione pubblici — potenziali partner istituzionali.
+
+**Sheet 3 — CONCORRENTI**
+Provider KA1 già accreditati (Europass Teacher Academy, Educat Academy, iTEACH, ARAXÁ Edu, ecc.) — da monitorare ma NON contattare come clienti. Usare solo per analisi competitiva e benchmark offerta corsi.
+
+⚠️ MAI mescolare i tre gruppi in un unico sheet.
+⚠️ I CONCORRENTI non vanno mai nell'outreach — solo nel foglio di monitoraggio.
+⚠️ Aggiornare la classificazione ad ogni wave prima del commit.
